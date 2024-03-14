@@ -1,0 +1,17 @@
+body {
+    width: 1200px;
+}
+
+
+
+.numbers {
+    display: inline-block;
+    width: 9%;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+}
+
+h3 {
+    display: inline-block;
+}
